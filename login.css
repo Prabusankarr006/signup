@@ -1,0 +1,45 @@
+body{
+    background:url(pss.jpeg) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 450px;
+    background-color: rgba(0,0,0,.5);
+    margin: 250px auto;
+    color: whitesmoke;
+    padding: 10px 20px 30px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.container h2{
+    text-align: center;
+    color: cyan; 
+}
+.container .textlabel{
+    display: block;
+}
+.input input{
+    width: 100%;
+    font-size: 1.5cm;
+    border-radius: 10px;
+    border: shadow 2px;
+    border: 1px skyblue;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin:5px 0px 15px ;
+}
+.button{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+    padding:15px 25px ;
+    box-shadow: 10px;
+}
+.radio input{
+    accent-color:white;
+    transform:scale(1.3) ;
+}
